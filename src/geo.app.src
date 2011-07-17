@@ -1,0 +1,9 @@
+{application, geo,
+ [
+  {description, "Geodesic computation library"},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [kernel,
+                  stdlib]},
+  {env, []}
+ ]}.
