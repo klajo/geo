@@ -4,6 +4,7 @@
         {lat,    % latitude in decimal degrees
          lon,    % longitude in decimal degrees
          time,   % UTC timestamp
-         ele     % elevation in meters
+         ele,    % elevation in meters
+         exts    % extensions
         }). 
 -endif.
